@@ -105,8 +105,8 @@ if __name__ == "__main__":
             speak("Miss. shifali Made me on 3 september of two thousand twenty-two")
      
      elif 'who are you' in query:
-            print('I am jara. A AI Assitant my coding written in Python Progamming By Mr. Sohail on 3 september of 2022.')       
-            speak("I am jaara. A AI Assitant my coding written in Python Progamming By Mr. Sohail on 3 september of two thousand twenty-two")
+            print('I am jara. A AI Assitant my coding written in Python Progamming By Miss. Shifali on 3 september of 2022.')       
+            speak("I am jaara. A AI Assitant my coding written in Python Progamming By Miss. Shifali on 3 september of two thousand twenty-two")
 
      elif 'time' in query:
             strTime = datetime.datetime.now().strftime("%H:%M:%S") 
